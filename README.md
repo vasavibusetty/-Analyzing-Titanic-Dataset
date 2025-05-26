@@ -1,2 +1,19 @@
-# -Analyzing-Titanic-Dataset
-This project performs EDA on the Titanic dataset to explore survival patterns. It includes data cleaning, grouping, visualizations, and correlation analysis using Pandas, Seaborn, and Matplotlib to understand the impact of gender, class, and age on survival.
+# Titanic Dataset EDA
+
+## Objective:
+Explore and analyze the Titanic dataset to uncover insights into passenger survival.
+
+## Key Steps:
+- Data loading using Pandas
+- Data cleaning (null values, incorrect data)
+- Grouping and aggregations
+- Visualizations (histograms, barplots, heatmaps)
+- Summary insights
+
+## Tools Used:
+- Python (Pandas, Matplotlib, Seaborn)
+
+## Insights:
+- Higher survival rate for females and 1st class passengers
+- Age distribution is skewed toward young adults
+- Positive correlation between Fare and Survival
